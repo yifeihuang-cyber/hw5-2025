@@ -8,8 +8,6 @@ window.addEventListener("load", function () {
   video.loop = false;
   console.log("Autoplay is set to " + video.autoplay);
   console.log("Loop is set to " + video.loop);
-
-  updateVolumeDisplay();
 });
 
 
